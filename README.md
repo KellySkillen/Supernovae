@@ -62,22 +62,24 @@
    
   5. Delta Omega: Python 3 code used to find best fit value of omega_m + residuals
   
-  6. Least Sqs Fit (JLA): Python 3 code used to find best fit values of alpha, beta and M_B for this analysis for omega_m = 0.287
+  6. Host sSFR: Python 3 code used to find step correction for host galaxy sSFR
+  
+  7. Least Sqs Fit (JLA): Python 3 code used to find best fit values of alpha, beta and M_B for this analysis for omega_m = 0.287
      (least squares fit method)
   
-  7. Local SFR: Python 3 code used to find step correction for host galaxy local SFR + residuals
+  8. Local SFR: Python 3 code used to find step correction for host galaxy local SFR + residuals
   
-  8. PEGASE & FSPS Comparison: Python 3 code used to compare PEGASE and FSPS spectral synthesis codes outputs for host galaxy mass and 
+  9. PEGASE & FSPS Comparison: Python 3 code used to compare PEGASE and FSPS spectral synthesis codes outputs for host galaxy mass and 
      SFR estimates
      
-  9. Residuals (JLA): Python 3 code used to compare the effects of step corrections for different host galaxy properties on the
+  10. Residuals (JLA): Python 3 code used to compare the effects of step corrections for different host galaxy properties on the
       Hubble Residuals
     
-  10. Star Forming Galaxies Correction Only: Python 3 code used to test the effect on Hubble residuals when only using star-forming
+  11. Star Forming Galaxies Correction Only: Python 3 code used to test the effect on Hubble residuals when only using star-forming
       galaxies in least squares fit method.  Also used to test effect of using low mass galaxies only.
       
-  11. delta M: Python 3 code used to find step correction for host galaxy mass + comparison with Betoule's mass step
+  12. delta M: Python 3 code used to find step correction for host galaxy mass + comparison with Betoule's mass step
   
-  12. Host sSFR: Python 3 code used to find step correction for host galaxy sSFR 
+ 
 
 
